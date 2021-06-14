@@ -1,1 +1,7 @@
-body{background-color:#000;font-size:21px;color:#fff}
+html {
+  font-size: 62.5%; }
+
+body {
+  background-color: #181818;
+  font-size: 1.4rem;
+  color: white; }
